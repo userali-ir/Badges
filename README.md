@@ -37,9 +37,6 @@
     - [Testing](#testing)
     - [Version Control](#version-control)
     - [Work/Jobs](#workjobs)
-  - [Contribution](#contribution)
-  - [Contact](#contact)
-  - [License](#license)
 
 ### Languages
 
