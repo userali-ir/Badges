@@ -1,7 +1,6 @@
 ## 💨Shortcuts
 
 - [Markdown Badges](#markdown-badges)
-  - [How to Use](#how-to-use)
   - [Shortcuts](#shortcuts)
     - [Artificial Intelligence and Bots](#artificial-intelligence-and-bots)
     - [Blog](#blog)
